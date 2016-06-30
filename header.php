@@ -74,9 +74,3 @@
 </div><!-- /.navbar-collapse -->
 </div><!-- /.container-fluid -->
 </nav>
-
-
-    <!-- About Us Page
-    ==========================================-->
-    <div id="tf-services">
-        <div class="container">

@@ -14,7 +14,7 @@ if (isset($_POST['contact'])) {
 		echo json_encode($response);
 	}else{
 
-		$to = 'babunashvilidato@gmail.com';
+		$to = 'gurisichinava666@gmail.com';
 		$subject = $subj;
 		$body = $msg;
 		$headers = [];
